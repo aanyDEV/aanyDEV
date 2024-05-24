@@ -1,4 +1,3 @@
 - 👋 Hi, I'm a Freelance Developer
-- 👀 I am interested in Embedded Systems | IoT | Application
 - 🌱 I am currently exploring system development to adapt to current market demands
 - 💞️ I want to collaborate in System Development
